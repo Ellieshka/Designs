@@ -15,3 +15,4 @@ Created a conference [program](https://github.com/Ellieshka/Designs/blob/main/CA
 
 ## Association of Women in Science San Diego
 [Website](https://www.wist2025.org/) that I have co-created with Lori Yang, AWIS-SD, for WIST2025 conference in October 2025.
+Created logos for WIST2025 conference.
